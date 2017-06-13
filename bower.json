@@ -1,0 +1,26 @@
+{
+  "name": "COMP1073-Lesson01",
+  "homepage": "https://github.com/ThunderBird007/COMP1073-Winter2017-Lesson01",
+  "authors": [
+    "Alan Tse <starttodevelop@gmail.com>"
+  ],
+  "description": "Demo app for Lesson 1",
+  "main": "",
+  "keywords": [
+    "Javascript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
